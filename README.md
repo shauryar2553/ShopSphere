@@ -1,11 +1,7 @@
-<h1 align="center">E-Commerce Store 🛒</h1>
+About This Project:
+Hey! This is an e-commerce website I built as part of my college project. It’s made using the MERN stack (MongoDB, Express, React, Node.js), and I’ve added features like product management, secure login, Stripe payment integration, and a shopping cart system.
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
-
-[Video Tutorial on Youtube](https://youtu.be/sX57TLIPNx8)
-
-About This Course:
-
+Key Features:
 -   🚀 Project Setup
 -   🗄️ MongoDB & Redis Integration
 -   💳 Stripe Payment Setup
@@ -26,34 +22,9 @@ About This Course:
 -   🚀Caching with Redis
 -   ⌛ And a lot more...
 
-### Setup .env file
+What I Learned:
+This project was a great way for me to learn how to build a full-stack e-commerce app. I got hands-on experience with JWT authentication, Stripe payments, and managing data with MongoDB. It was a lot of fun and helped me understand how to connect the front-end with the back-end.
 
-```bash
-PORT=5000
-MONGO_URI=your_mongo_uri
+Feel Free to Explore:
+This project is open-source, so feel free to check it out, fork it, and make improvements! 😊
 
-UPSTASH_REDIS_URL=your_redis_url
-
-ACCESS_TOKEN_SECRET=your_access_token_secret
-REFRESH_TOKEN_SECRET=your_refresh_token_secret
-
-CLOUDINARY_CLOUD_NAME=your_cloud_name
-CLOUDINARY_API_KEY=your_api_key
-CLOUDINARY_API_SECRET=your_api_secret
-
-STRIPE_SECRET_KEY=your_stripe_secret_key
-CLIENT_URL=http://localhost:5173
-NODE_ENV=development
-```
-
-### Run this app locally
-
-```shell
-npm run build
-```
-
-### Start the app
-
-```shell
-npm run start
-```
