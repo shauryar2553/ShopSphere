@@ -22,9 +22,7 @@ Key Features:
 -   🚀Caching with Redis
 -   ⌛ And a lot more...
 
-What I Learned:
 This project was a great way for me to learn how to build a full-stack e-commerce app. I got hands-on experience with JWT authentication, Stripe payments, and managing data with MongoDB. It was a lot of fun and helped me understand how to connect the front-end with the back-end.
 
-Feel Free to Explore:
 This project is open-source, so feel free to check it out, fork it, and make improvements! 😊
 
