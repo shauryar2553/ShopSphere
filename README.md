@@ -1,4 +1,4 @@
-About This Project:
+
 Hey! This is an e-commerce website I built as part of my college project. It’s made using the MERN stack (MongoDB, Express, React, Node.js), and I’ve added features like product management, secure login, Stripe payment integration, and a shopping cart system.
 
 Key Features:
